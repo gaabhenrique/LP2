@@ -1,0 +1,10 @@
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\bin\Debug\CalculadoraImc.exe.config
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\bin\Debug\CalculadoraImc.exe
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\bin\Debug\CalculadoraImc.pdb
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\obj\Debug\CalculadoraImc.csproj.AssemblyReference.cache
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\obj\Debug\CalculadoraImc.Form1.resources
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\obj\Debug\CalculadoraImc.Properties.Resources.resources
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\obj\Debug\CalculadoraImc.csproj.GenerateResource.cache
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\obj\Debug\CalculadoraImc.csproj.CoreCompileInputs.cache
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\obj\Debug\CalculadoraImc.exe
+C:\Users\Slash\Documents\GitHub\LP2\Atividade3\CalculadoraImc\CalculadoraImc\obj\Debug\CalculadoraImc.pdb
