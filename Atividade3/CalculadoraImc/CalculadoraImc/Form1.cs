@@ -43,34 +43,44 @@ namespace CalculadoraImc
         {
             if ((double.TryParse(txtAltura.Text, out altura)) && (double.TryParse(txtPeso.Text, out peso)))
             {
-                imc = peso / Math.Pow(altura, 2);
+                if(altura > 0 && peso > 0)
+                {
+                    imc = peso / Math.Pow(altura, 2);
 
-                txtImc.Text = imc.ToString("N2");
+                    txtImc.Text = imc.ToString("N2");
 
-                if (imc < 18.5) {
-                    txtClassificacao.Text = "Magreza";
-                    txtObesidade.Text = "0";
-                }
-                else if (imc < 24.9)
-                {
-                    txtClassificacao.Text = "Normal";
-                    txtObesidade.Text = "0";
-                }
-                else if (imc < 29.9)
-                {
-                    txtClassificacao.Text = "Sobrepeso";
-                    txtObesidade.Text = "1";
-                }
-                else if (imc < 39.9)
-                {
-                    txtClassificacao.Text = "Obesidade";
-                    txtObesidade.Text = "2";
+                    if (imc < 18.5)
+                    {
+                        txtClassificacao.Text = "Magreza";
+                        txtObesidade.Text = "0";
+                    }
+                    else if (imc < 24.9)
+                    {
+                        txtClassificacao.Text = "Normal";
+                        txtObesidade.Text = "0";
+                    }
+                    else if (imc < 29.9)
+                    {
+                        txtClassificacao.Text = "Sobrepeso";
+                        txtObesidade.Text = "1";
+                    }
+                    else if (imc < 39.9)
+                    {
+                        txtClassificacao.Text = "Obesidade";
+                        txtObesidade.Text = "2";
+                    }
+                    else
+                    {
+                        txtClassificacao.Text = "Obesidade Grave";
+                        txtObesidade.Text = "3";
+                    }
                 }
                 else
                 {
-                    txtClassificacao.Text = "Obesidade Grave";
-                    txtObesidade.Text = "3";
+                    MessageBox.Show("Valores inválidos");
+                    clearAll();
                 }
+
 
             }
             else
