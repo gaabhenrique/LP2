@@ -1,0 +1,14 @@
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\bin\Debug\Atividade8.exe.config
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\bin\Debug\Atividade8.exe
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\bin\Debug\Atividade8.pdb
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.AssemblyReference.cache
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.frmPrincipal.resources
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.Properties.Resources.resources
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.GenerateResource.cache
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.csproj.CoreCompileInputs.cache
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.exe
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.pdb
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.frmExercicio1.resources
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.frmExercicio2.resources
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.frmExercicio3.resources
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade8\Atividade8\Atividade8\obj\Debug\Atividade8.frmExercicio4.resources
