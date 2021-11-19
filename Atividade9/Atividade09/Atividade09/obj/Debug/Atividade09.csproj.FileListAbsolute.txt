@@ -1,0 +1,12 @@
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\bin\Debug\Atividade09.exe.config
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\bin\Debug\Atividade09.exe
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\bin\Debug\Atividade09.pdb
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\obj\Debug\Atividade09.csproj.AssemblyReference.cache
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\obj\Debug\Atividade09.csproj.ResolveComReference.cache
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\obj\Debug\Atividade09.Form1.resources
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\obj\Debug\Atividade09.frmExercicio1.resources
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\obj\Debug\Atividade09.Properties.Resources.resources
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\obj\Debug\Atividade09.csproj.GenerateResource.cache
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\obj\Debug\Atividade09.csproj.CoreCompileInputs.cache
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\obj\Debug\Atividade09.exe
+C:\Users\Gabhe\Documents\GitHub\LP2\Atividade9\Atividade09\Atividade09\obj\Debug\Atividade09.pdb
